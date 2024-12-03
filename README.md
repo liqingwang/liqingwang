@@ -1,4 +1,3 @@
-# Hello Word
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
